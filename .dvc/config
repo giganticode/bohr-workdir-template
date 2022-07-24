@@ -1,0 +1,5 @@
+[core]
+    remote = read
+    check_update = false
+['remote "read"']
+    url = http://squirrel.inf.unibz.it:8180
